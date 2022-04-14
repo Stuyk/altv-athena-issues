@@ -2,6 +2,12 @@
 
 ---
 
+## Making a Report
+
+Follow the templates when you create a new issue.
+
+## Resources
+
 This repository is for reporting issues for the [Athena Framework](https://athenframework.com/)
 
 Documentation can be found at [the Athena Framework Docs Website](https://docs.athenaframework.com/).

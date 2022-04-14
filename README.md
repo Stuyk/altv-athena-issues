@@ -1,6 +1,6 @@
 # Athena Framework - Issue Tracker
 
-## Making a Report
+## Making an Issue
 
 Follow the templates when you create a new issue.
 

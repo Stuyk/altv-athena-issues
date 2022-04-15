@@ -1,6 +1,6 @@
 name: Bug report
 description: Report a bug inside the Athena Framework
-labels: ['Class: bug']
+labels: ['bug']
 
 body:
   - type: textarea

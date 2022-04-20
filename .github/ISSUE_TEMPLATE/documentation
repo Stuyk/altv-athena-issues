@@ -1,0 +1,13 @@
+name: Documentation Request
+description: Suggest something to be documented
+labels: ['documentation']
+
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description of what to document
+      description: Describe which feature needs more documentation
+      placeholder: Describe what you feel is necessary to get a better explanation of this specific topic
+    validations:
+      required: true
